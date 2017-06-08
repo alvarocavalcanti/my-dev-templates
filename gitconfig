@@ -1,0 +1,14 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Alvaro Cavalcanti
+#	email = alvarovictor@gmail.com
+[user]
+	name = Alvaro Cavalcanti
+	email = alvarovictor@gmail.com
+[log]
+  date = relative
+[format]
+  pretty = shortlog
+[pretty]
+  shortlog = format:%C(auto,yellow)%h%C(auto,magenta)% G? %C(auto,blue)%>(12,trunc)%ad %C(auto,green)%<(7,trunc)%aN%C(auto,reset)%s%C(auto,red)% gD% D
