@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+# Pre Commit
+rm -f .git/hooks/pre-commit
+touch .git/hooks/pre-commit
+chmod +x .git/hooks/pre-commit
+echo "echo 'Pre Commit Hook'" >> .git/hooks/pre-commit
+
+# Pre Push
+rm -f .git/hooks/pre-push
+# touch .git/hooks/pre-push
+# chmod +x .git/hooks/pre-push
+# echo "gradle test" >> .git/hooks/pre-push
+cp pre-push.sh .git/hooks/pre-push
