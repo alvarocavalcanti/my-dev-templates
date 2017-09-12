@@ -26,4 +26,6 @@
 
 # exit $exit_val
 
+
+# http://blog.ittybittyapps.com/blog/2013/09/03/git-pre-push/
 exit 1
