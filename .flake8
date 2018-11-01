@@ -1,0 +1,5 @@
+[flake8]
+max-line-length = 120
+max-complexity = 10
+exclude=bapi/apps/*/migrations/*.py,pavement.py,admin/**/*.py,bapi/config/settings/*.py
+ignore = F811,E402
