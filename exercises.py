@@ -7,7 +7,24 @@ def filter_odd_ocurrences(array):
 
 
 def hyerarchy_from_markup(array):
-    return None
+    class Heading:
+        def __init__(self, str):
+            [level, title] = str.split(' ')
+            self.level = level[1:]
+            self.title = title
+
+        def __repr__(self):
+            return self.__str__()
+
+        def __str__(self):
+            return "{} - {}".format(self.level, self.title)
+
+    def get_children(parent_level, children_str):
+        pass
+
+    root = Heading(array[0])
+    tree = {root: get_children(root.level, array[1:])}
+    return tree
 
 
 if __name__ == '__main__':
@@ -27,15 +44,16 @@ if __name__ == '__main__':
         'H2 Sibling',
         'H3 Sub Child Sibling',
     ]
-    expected_tree = {
-        'Root': [
-            {'Child': [
-                {'Sub Child': []}
-            ]},
-            {'Sibling': [
-                {'Sub Child Sibling': []}
-            ]},
-        ]
-    }
+    # expected_tree = {
+    #     'Root': [
+    #         {'Child': [
+    #             {'Sub Child': []}
+    #         ]},
+    #         {'Sibling': [
+    #             {'Sub Child Sibling': []}
+    #         ]},
+    #     ]
+    # }
 
-    assert expected_tree == hyerarchy_from_markup(markup)
+    from pprint import pprint as pp
+    pp(hyerarchy_from_markup(markup))
