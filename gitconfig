@@ -12,6 +12,14 @@
   pretty = shortlog
 [pretty]
   shortlog = format:%C(auto,yellow)%h%C(auto,magenta)% G? %C(auto,blue)%>(12,trunc)%ad %C(auto,green)%<(7,trunc)%aN%C(auto,reset)%s%C(auto,red)% gD% D
+[core]
+	excludesfile = /Users/alvarocavalcanti/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
 [alias]
 	co = checkout
 	br = branch
@@ -19,3 +27,4 @@
 	st = status
 	unstage = reset HEAD --
 	last = log -1 HEAD
+	glog = git log --pretty=oneline --abbrev-commit

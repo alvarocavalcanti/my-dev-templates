@@ -57,3 +57,16 @@ if __name__ == '__main__':
 
     from pprint import pprint as pp
     pp(hyerarchy_from_markup(markup))
+
+    count = 1
+    for i in range(1, 1800):
+        if (
+            i % 2 == 0 and
+            i % 4 == 0 and
+            i % 6 == 0 and
+            i % 8 == 0 and
+            i % 10 == 0 and
+            i % 12 == 0
+        ):
+            count += 1
+    print("Total together: {}".format(count))
