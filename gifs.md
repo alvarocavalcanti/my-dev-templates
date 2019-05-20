@@ -7,3 +7,7 @@
 ![Awesome](https://media.giphy.com/media/d2Z9QYzA2aidiWn6/giphy.gif)
 ![AirDancer Timberlake](https://media.giphy.com/media/3oEjI0O3o71g2tNtcs/giphy.gif)
 ![AirDancer Drunk Dude](https://media.giphy.com/media/RBN9u2B4hQIh2/giphy.gif)
+![Off With Their Heads](https://media.giphy.com/media/8ENUJx9pzBNzq/giphy.gif)
+![Oh Yes](https://media.giphy.com/media/p4x83exH0rXyoqyxLb/giphy.gif)
+![RuPaul Loves It](https://media.giphy.com/media/cdpsxf8WjmNMOBXaCd/giphy.gif)
+![Oh Boy!](https://media.giphy.com/media/kwCJA4NGu2PtMzpxGb/giphy.gif)
