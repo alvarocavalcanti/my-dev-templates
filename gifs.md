@@ -13,3 +13,5 @@
 ![Oh Boy!](https://media.giphy.com/media/kwCJA4NGu2PtMzpxGb/giphy.gif)
 ![Looks Good To Me](https://media.giphy.com/media/5WJl2UpkwgDcPBouQs/giphy.gif)
 ![LGTM Peralta](https://media.giphy.com/media/d2ZeMUDQSSsCP9FC/giphy.gif)
+![Peralta What](https://media.giphy.com/media/zMpHQobxFfCE0/giphy.gif)
+![Peralta Faces](https://media.giphy.com/media/33xHCl8YCoY5W/giphy.gif)
