@@ -1,0 +1,14 @@
+help: ## Display help
+	@awk -F ':|##' \
+		'/^[^\t].+?:.*?##/ {\
+			printf "\033[36m%-30s\033[0m %s\n", $$1, $$NF \
+}' $(MAKEFILE_LIST) | sort
+
+run: ## Start a local instance of the service
+	docker-compose up
+
+up: ## Start a local instance of the service run as a daemon
+	docker-compose up -d
+
+down: ## Ensure the docker-compose pieces are all stopped
+	docker-compose down
