@@ -17,3 +17,4 @@
 ![Peralta Faces](https://media.giphy.com/media/33xHCl8YCoY5W/giphy.gif)
 ![Good Stuff](https://media.giphy.com/media/3o7aDeFfrdxWOYnx72/giphy.gif)
 ![Feelings](https://media.giphy.com/media/yoJC2D22ruCQKUM1bi/giphy.gif)
+![Silly Americans](https://media.giphy.com/media/l0HlUrEZGCIDSDNF6/giphy.gif)
