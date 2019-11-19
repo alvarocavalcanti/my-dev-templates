@@ -19,3 +19,5 @@
 ![Feelings](https://media.giphy.com/media/yoJC2D22ruCQKUM1bi/giphy.gif)
 ![Silly Americans](https://media.giphy.com/media/l0HlUrEZGCIDSDNF6/giphy.gif)
 ![Nod](https://media.giphy.com/media/gVoBC0SuaHStq/giphy.gif)
+![Thumbs Up, by Kevin Arnold](https://media.giphy.com/media/oGO1MPNUVbbk4/giphy.gif)
+![High Noon](http://giphygifs.s3.amazonaws.com/media/fP1J2m8I5DnRS/giphy.gif)
