@@ -21,3 +21,6 @@
 ![Nod](https://media.giphy.com/media/gVoBC0SuaHStq/giphy.gif)
 ![Thumbs Up, by Kevin Arnold](https://media.giphy.com/media/oGO1MPNUVbbk4/giphy.gif)
 ![High Noon](http://giphygifs.s3.amazonaws.com/media/fP1J2m8I5DnRS/giphy.gif)
+![Cool Cool Cool Court](https://media.giphy.com/media/4NnSe87mg3h25JYIDh/giphy.gif)
+![Peralta Noice](https://media.giphy.com/media/KxiRwO7tqXCTDVKobo/giphy.gif)
+![LGTMoney](https://media.giphy.com/media/DBydjX0ovgjzkSiHUD/giphy.gif)
