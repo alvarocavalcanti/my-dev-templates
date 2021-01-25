@@ -27,3 +27,5 @@
 ![Sad Panda](https://rpm.newrelic.com/accounts/1048778/applications/10123752)
 ![Peralta Noice](https://media1.giphy.com/media/KxiRwO7tqXCTDVKobo/giphy.gif)
 ![Idris Wink](https://media.giphy.com/media/3o85xGDbubb12tLkR2/giphy.gif)
+![Sashay Away](https://media.giphy.com/media/3oz8xtprbtd0wEWOoU/giphy.gif)
+![Snap out of it](https://media.giphy.com/media/7EeLRgF17BOLfSGecp/giphy.gif)
