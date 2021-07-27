@@ -29,3 +29,7 @@
 ![Idris Wink](https://media.giphy.com/media/3o85xGDbubb12tLkR2/giphy.gif)
 ![Sashay Away](https://media.giphy.com/media/3oz8xtprbtd0wEWOoU/giphy.gif)
 ![Snap out of it](https://media.giphy.com/media/7EeLRgF17BOLfSGecp/giphy.gif)
+![Jesus and Santa thumbs](https://media.giphy.com/media/26ufiDslPvIMZzVok/giphy.gif)
+![Ill allow it](https://media.giphy.com/media/SmoCFhZCi1kzu/giphy.gif)
+![Seal of Approval](https://media.giphy.com/media/H3NGDz2Vxf54PL35u1/giphy.gif)
+![Kylo Approves](https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif)
