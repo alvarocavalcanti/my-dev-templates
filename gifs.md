@@ -34,3 +34,4 @@
 ![Seal of Approval](https://media.giphy.com/media/H3NGDz2Vxf54PL35u1/giphy.gif)
 ![Kylo Approves](https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif)
 ![Rubberbandits Yurt](https://media.giphy.com/media/lp9VKunz2vXXDnEgv6/giphy.gif)
+![Fry Squinting](https://media.giphy.com/media/cFgb5p5e1My3K/giphy.gif)
